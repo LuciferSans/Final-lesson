@@ -1,0 +1,989 @@
+.Desktop{
+position: relative;
+width: 1920px;
+height: 3781px;
+width: 100%;
+min-width: 980px;
+max-width: 1920px;
+}
+.first-screen{
+position: relative;
+width: 100%;
+height: 37%;
+left: 0px;
+top: 0px;
+width: 100%;
+min-width: 980px;
+max-width: 1920px;
+}
+.Frame-2{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+position: absolute;
+width: 15%;
+height: 4%;
+left: 985px;
+top: 700px;
+background: #998431;
+}
+.Frame-1{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+position: absolute;
+width: 15%;
+height: 4%;
+left: 752px;
+top: 700px;
+background: #99862A;
+}
+.main-menu{
+position: absolute;
+width: 70%;
+height: 3%;
+left: 405px;
+top: 70px;
+}
+.line-1{
+position: absolute;
+width: 100%;
+height: 0%;
+left: 405px;
+top: 117px;
+border: 1px solid #FFFFFF;
+}
+.line-2{
+position: absolute;
+width: 100%;
+height: 0%;
+left: 405px;
+top: 70px;
+border: 1px solid #FFFFFF;
+}
+.line-3{
+position: absolute;
+width: 5%;
+height: 0%;
+left: 675px;
+top: 70px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.line-4{
+position: absolute;
+width: 5%;
+height: 0%;
+left: 960px;
+top: 70px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.line-5{
+position: absolute;
+width: 5%;
+height: 0%;
+left: 1245px;
+top: 70px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.Каталог{
+position: absolute;
+width: 6%;
+height: 2%;
+left: 511px;
+top: 81px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.Доставка{
+position: absolute;
+width: 6%;
+height: 2%;
+left: 776px;
+top: 83px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.Коллекции{
+position: absolute;
+width: 6%;
+height: 2%;
+left: 1054px;
+top: 83px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.Контакты{
+position: absolute;
+width: 6%;
+height: 2%;
+left: 1345px;
+top: 83px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+text-align: center;
+color: #FFFFFF;
+}
+.Number{
+position: absolute;
+width: 15%;
+height: 2%;
+left: 1408px;
+top: 30px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+text-align: right;
+color: #FFFFFF;
+}
+.adress{
+position: absolute;
+width: 30%;
+height: 2%;
+left: 405px;
+top: 30px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+color: #FFFFFF;
+}
+.text{
+position: absolute;
+width: 100%;
+height: 37%
+left: 0px;
+top: 900px;
+}
+.img{
+position: absolute;
+width: 12%;
+height: 160px;
+left: 880px;
+top: 650px;
+}
+.vino{
+position: absolute;
+width: 50%;
+height: 5%;
+left: 595px;
+top: 450px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.line-6{
+position: absolute;
+width: 12%;
+height: 0%;
+left: 880px;
+top: 400px;
+border: 1px solid #FFFFFF;
+}
+.Best{
+position: absolute;
+width: 48%;
+height: 4%;
+left: 592px;
+top: 300px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.collection{
+width: 100%;
+height: 37%;
+left: 0;
+top: 1000px;
+}
+.slider{
+position: absolute;
+width: 35%;
+height: 20%;
+left: 975px;
+top: 980px;
+}
+.slider-1{
+position: absolute;
+width: 100%;
+height: 66%;
+left: 0px;
+top: 980px;
+background: url(Rectangle 11.png), #7B7B7B;
+}
+.slider-2{
+position: absolute;
+width: 50%;
+height: 30%;
+left: 0px;
+top: 1430px;
+}
+.slider-3{
+position: absolute;
+width: 50%;
+height: 30%;
+left: 285px;
+top: 1430px;
+background: url(Rectangle 13.png), #7B7B7B;
+}
+.table{
+position: absolute;
+width: 56%;
+height: 30%;
+left: 50px;
+top: 1200px;
+}
+.line-7{
+position: absolute;
+width: 30%;
+height: 0%;
+left: 15px;
+top: 1150px;
+background: #282828;
+border: 1px solid #282828;
+transform: rotate(90deg);
+}
+.line-8{
+position: absolute;
+width: 60%;
+height: 0%;
+left: 0px;
+top: 1190px;
+background: #282828;
+border: 1px solid #282828;
+}
+.line-9{
+position: absolute;
+width: 60%;
+height: 0%;
+left: 0px;
+top: 1110px;
+background: #282828;
+border: 1px solid #282828;
+}
+.h-1{
+position: absolute;
+width: 50%;
+height: 3%;
+left: 150px;
+top: 1170px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+color: #282828;
+}
+.h-2{
+position: absolute;
+width: 50%;
+height: 3%;
+left: 150px;
+top: 1090px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+color: #282828;
+}
+.h-3{
+position: absolute;
+width: 50%;
+height: 3%;
+left: 150px;
+top: 1010px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 150%;
+color: #282828;
+}
+.d-1{
+position: absolute;
+width: 46%;
+height: 2%;
+left: 150px;
+top: 1220px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.d-2{
+position: absolute;
+width: 46%;
+height: 2%;
+left: 150px;
+top: 1140px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.d-3{
+position: absolute;
+width: 46%;
+height: 2%;
+left: 150px;
+top: 1060px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.n-1{
+position: absolute;
+width: 3%;
+height: 2%;
+left: 70px;
+top: 1200px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.n-2{
+position: absolute;
+width: 3%;
+height: 2%;
+left: 70px;
+top: 1125px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.n-3{
+position: absolute;
+width: 3%;
+height: 2%;
+left: 70px;
+top: 1050px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.more{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+position: absolute;
+width: 21%;
+height: 1,5%;
+left: 15px;
+top: 1440px;
+background: #998431
+}
+.line-10{
+position: absolute;
+width: 79%;
+height: 0%;
+left: 405px;
+top: 730px;
+border: 1px solid #998431;
+}
+.line-11{
+position: absolute;
+width: 79%;
+height: 0%;
+left: 450px;
+top: 1465px;
+border: 1px solid #998431;
+}
+.Lorem{
+position: absolute;
+width: 30%;
+height: 8%;
+left: 70px;
+top: 2490px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.ipsum{
+position: absolute;
+width: 30%;
+height: 8%;
+left: 70px;
+top: 2118px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+color: #282828;
+}
+.записаться{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 30px;
+position: absolute;
+width: 37%;
+height: 2%;
+left: 689px;
+top: 3331px;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+}
+.btn{
+position: static;
+width: 30%;
+height: 2%;
+left: 209px;
+top: 15px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.final{
+width: 100%;
+height: 10%;
+left: 0;
+top: 1000px
+}
+.line-12{
+position: absolute;
+width: 15%;
+height: 0%;
+left: 975px;
+top: 3100px;
+border: 1px solid #FFFFFF;
+}
+.phone{
+position: absolute;
+width: 15%;
+height: 2%;
+left: 976px;
+top: 3060px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+color: #FFFFFF;
+}
+.line-13{
+position: absolute;
+width: 35%;
+height: 0%;
+left: 690px;
+top: 3281px;
+border: 1px solid #FFFFFF;
+}
+.Бутик{
+position: absolute;
+width: 15%;
+height: 2%;
+left: 691px;
+top: 3240px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+color: #FFFFFF;
+}
+.line-14{
+position: absolute;
+width: 15%;
+height: 0%;
+left: 690px;
+top: 3100px;
+border: 1px solid #FFFFFF;
+}
+.Имя{
+position: absolute;
+width: 15%;
+height: 2%;
+left: 691px;
+top: 3060px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+color: #FFFFFF;
+}
+.h5{
+position: absolute;
+width: 40%;
+height: 7%;
+left: 691px;
+top: 2900px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.image{
+position: absolute;
+width: 20%;
+height: 6%;
+left: 1308px;
+top:2858px;
+background: url(naliv.png), #282828;
+}
+.image1{
+position: absolute;
+width: 20%;
+height: 6%;
+left: 375px;
+top: 2850px;
+background: url(vinograd.png), #282828;
+}
+.line-15{
+position: absolute;
+width: 74%;
+height: 0%;
+left: 405px;
+top: 3706px;
+border: 1px solid #FFFFFF;
+}
+.border-bot{
+position: absolute;
+width: 74%;
+height: 0%;
+left: 405px;
+top: 3651px;
+border: 1px solid #FFFFFF;
+}
+.border-down{
+position: absolute;
+width: 74%;
+height: 0%;
+left: 405px;
+top: 3761px;
+border: 1px solid #FFFFFF;
+}
+.h6{
+position: absolute;
+width: 6%;
+height: 2%;
+left: 1353px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: white;
+}
+.h21{
+position: absolute;
+width: 11%;
+height: 2%;
+left: 1174px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.h7{
+position: absolute;
+width: 8%;
+height: 2%;
+left: 1029px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.h8{
+position: absolute;
+width: 8%;
+height: 2%;
+left: 887px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.h9{
+position: absolute;
+width: 9%;
+height: 2%;
+left: 735px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.h10{
+position: absolute;
+width: 5%;
+height: 2%;
+left: 618px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.h11{
+position: absolute;
+width: 5%;
+height: 2%;
+left: 500px;
+top: 3670px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+color: #FFFFFF;
+}
+.border90{
+position: absolute;
+width: 4%;
+height: 0%;
+left: 1250px;
+top: 3735px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.border-center{
+position: absolute;
+width: 4%;
+height: 0%;
+left: 990px;
+top: 3735px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.border-right{
+position: absolute;
+width: 4%;
+height: 0%;
+left: 755px;
+top: 3735px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.facebook{
+position: absolute;
+width: 2%;
+height: 0,1%;
+left: 1205px;
+top: 3725px;
+}
+.Vk{
+position: absolute;
+width: 2%;
+height: 0,5%;
+left: 1129px;
+top: 3725px;
+}
+.youtube{
+position: absolute;
+width: 2%;
+height: 0,3%;
+left: 1047px;
+top: 3725px;
+}
+.scrypt{
+position: absolute;
+width: 11%;
+height: 2%;
+left: 1308px;
+top: 3690px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;	
+}
+.telephone{
+position: absolute;
+width: 12%;
+height: 2%;
+left: 815px;
+top: 3690px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.butic{
+position: absolute;
+width: 20%;
+height: 2%;
+left: 500px;
+top: 3690px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.menu{
+	color: purple;
+}
+.addBtn{
+	color: pink;
+}
+@media (max-width: 1920px) {  
+  .first-screean {padding: 0;} /* основное содержимое занимает всё пространство окна */
+}
+@media (max-width: 930px) and (min-width: 470px) {  /* для разрешения экрана от 470 до 930 пикселей */
+  .first-screen{position: static; width: 50%;}
+  .Frame-2{position: static; width: 74%;}
+  .Frame-1{position: static; width: 75%;}
+  .main-menu{position: static; width: 75%;}
+  .line-1{position: static; width: 75%;}
+  .line-2{position: static; width: 75%;}
+  .line-3{position: static; width: 75%;}
+  .line-4{position: static; width: 75%;} 
+  .line-5{position: static; width: 75%; }
+  .Каталог{position: static; width: 75%; }
+  .Доставка{position: static; width: 75%; }
+  .Коллекции{position: static; width: 75%; }
+  .Контакты{position: static; width: 75%; }
+  .wrapper{position: static; width: 75%;}
+  .header{position: static; width: 75%;}
+  .menu{position: static; width: 75%;}
+  .addBtn{position: static; width: 75%; }
+  .Number{position: static; width: 75%; }
+  .adress{position: static; width: 75%;}
+  .text{position: static; width:100%; }
+  .border{position: static; width: 75%;}
+  .img{position: static; width: 75%; }
+  .vino{position: static; width: 75%; }
+  .Best{position: static; width: 75%; }
+  .line-6{position: static; width: 75%;}
+  .collection{position: static; width: 100%;}
+  .slider{position: static; width: 75%;}
+  .slider-1{position: static; width: 75%;}
+  .slider-2{position: static; width: 75%;}
+  .slider-3{position: static; width: 75%;}
+  .table{position: static; width: 100%;}  
+  .line-7{position: static; width: 75%; }
+  .line-8{position: static; width: 75%; }
+  .line-9{position: static; width:75%; }
+  .h-1{position: static; width: 75%;}
+  .h-2{position: static; width: 75%; }
+  .h-3{position: static; width: 75%;}
+  .d-1{position: static; width: 75%;}
+  .d-2{position: static; width: 75%; }
+  .d-3{position: static; width: 75%;}
+  .n-1{position: static; width: 75%;}
+  .n-2{position: static; width: 75%;}
+  .n-3{position: static; width: 75%; }
+  .more{position: static; width: 75%; }
+  .line-10{position: static; width: 75%;}
+  .line-11{position: static; width: 75%; }
+  .Lorem{position: static; width: 75%; }
+  .ispum{position: static; width: 75%;}
+  .записаться{position: static; width: 75%;}
+  .btn{position: static; width: 75%;}
+  .line-12{position: static; width: 75%; }
+  .phone{position: static; width: 75%; }
+  .line-13{position: static; width: 75%; }  
+  .line-14{position: static; width: 75%;}
+  .line-15{position: static; width: 75%;}
+  .Бутик{position: static; width: 75%; }
+  .Имя{position: static; width: 75%;}
+  .h5{position: static; width: 75%; }
+  .image{position: static; width: 75%;}
+  .image1{position: static; width: 75%;}
+  .border-bot{position: static; width: 75%; }
+  .border-down{position: static; width: 75%;}
+  .h6{position: static; width: 75%; }
+  .h21{position: static; width: 75%;}
+  .h7{position: static; width: 75%;}
+  .h8{position: static; width: 75%;}
+  .h9{position: static; width: 75%;}
+  .h10{position: static; width: 75%;}
+  .h11{position: static; width: 75%;}
+  .border90{position: static; width: 75%; }
+  .border-center{position: static; width: 75%;}
+  .border9-right{position: static; width: 75%; }
+  .facebook{position: static; width: 10%;}
+  .Vk{position: static; width: 10%;}
+  .youtube{position: static; width: 10%; }
+  .scrypt{position: static; width: 10%; }
+  .telephone{position: static; width: 10%; }
+  .butic{position: static; width: 10%;}
+  }
+@media (max-width: 1920px) {  
+  .first-screean {padding: 0;} /* основное содержимое занимает всё пространство окна */
+}
+@media (max-width: 480px) and (min-width: 320px) {  /* для разрешения экрана от 320 до 480 пикселей */
+  .first-screen{position: static; width: 25%;}
+  .Frame-2{position: static; width: 25%;}
+  .Frame-1{position: static; width: 25%;}
+  .main-menu{position: static; width: 25%;}
+  .line-1{position: static; width: 25%;}
+  .line-2{position: static; width: 25%;}
+  .line-3{position: static; width: 25%;}
+  .line-4{position: static; width: 25%;} 
+  .line-5{position: static; width: 25%; }
+  .Каталог{position: static; width: 25%; }
+  .Доставка{position: static; width: 25%; }
+  .Коллекции{position: static; width: 25%; }
+  .Контакты{position: static; width: 25%; }
+  .wrapper{position: static; width: 25%;}
+  .header{position: static; width: 25%;}
+  .menu{position: static; width:25%;}
+  .addBtn{position: static; width: 25%; }
+  .Number{position: static; width: 25%; }
+  .adress{position: static; width: 25%;}
+  .text{position: static; width:20%; }
+  .border{position: static; width: 25%;}
+  .img{position: static; width: 25%; }
+  .vino{position: static; width: 25%; }
+  .Best{position: static; width: 25%; }
+  .line-6{position: static; width: 25%;}
+  .collection{position: static; width: 25%;}
+  .slider{position: static; width: 25%;}
+  .slider-1{position: static; width: 25%;}
+  .slider-2{position: static; width: 25%;}
+  .slider-3{position: static; width: 25%;}
+  .table{position: static; width: 25%;}  
+  .line-7{position: static; width:25%; }
+  .line-8{position: static; width: 25%; }
+  .line-9{position: static; width:25%; }
+  .h-1{position: static; width: 25%;}
+  .h-2{position: static; width: 25%; }
+  .h-3{position: static; width: 25%;}
+  .d-1{position: static; width: 25%;}
+  .d-2{position: static; width: 25%; }
+  .d-3{position: static; width: 25%;}
+  .n-1{position: static; width: 25%;}
+  .n-2{position: static; width: 25%;}
+  .n-3{position: static; width:25%; }
+  .more{position: static; width: 25%; }
+  .line-10{position: static; width: 25%;}
+  .line-11{position: static; width:25%; }
+  .Lorem{position: static; width: 25%; }
+  .ispum{position: static; width: 25%;}
+  .записаться{position: static; width:25%;}
+  .btn{position: static; width: 25%;}
+  .line-12{position: static; width: 25%; }
+  .phone{position: static; width:25%; }
+  .line-13{position: static; width:25%; }  
+  .line-14{position: static; width: 25%;}
+  .line-15{position: static; width: 25%;}
+  .Бутик{position: static; width: 25%; }
+  .Имя{position: static; width: 25%;}
+  .h5{position: static; width: 25%; }
+  .image{position: static; width: 25%;}
+  .image1{position: static; width: 25%;}
+  .border-bot{position: static; width: 25%; }
+  .border-down{position: static; width: 25%;}
+  .h6{position: static; width:25%; }
+  .h21{position: static; width: 25%;}
+  .h7{position: static; width: 25%;}
+  .h8{position: static; width: 25%;}
+  .h9{position: static; width: 25%;}
+  .h10{position: static; width: 25%;}
+  .h11{position: static; width: 25%;}
+  .border90{position: static; width: 25%; }
+  .border-center{position: static; width: 25%;}
+  .border9-right{position: static; width: 25%; }
+  .facebook{position: static; width: 5%;}
+  .Vk{position: static; width: 5%;}
+  .youtube{position: static; width: 5%; }
+  .scrypt{position: static; width: 5%; }
+  .telephone{position: static; width: 5%; }
+  .butic{position: static; width: 5%;}
+  }
